@@ -5,16 +5,16 @@
 
 <template>
   <div>
-    <div class="jumbotron">
-      <div class="position">
-        <h1 class="">Hello World whit Vite!!!</h1>
-      </div>
-    </div>
+    <!-- <div class="jumbotron">
+      <div class="position"> -->
+        <h1>Hello World whit Vite!!!</h1>
+      <!-- </div>
+    </div> -->
   </div>
 </template>
 
 <style scoped>
-  .jumbotron{
+  /* .jumbotron{
     background-image: url(../assets/jumbo.png);
     width: 100%;
     height: 800px;
@@ -29,5 +29,5 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-  }
+  } */
 </style>

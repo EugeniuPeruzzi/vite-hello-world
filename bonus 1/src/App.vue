@@ -1,11 +1,11 @@
 <script>
 
 import ciaomondo from './components/ciaomondo.vue'; //importo in App.vue la compomponente ciao mondo
-import immageComp from './components/immageComp.vue'
+import AppHero from './components/AppHero.vue'
 export default{
   components:{
     ciaomondo,
-    immageComp,
+    AppHero,
   }
 }
 </script>
@@ -13,7 +13,7 @@ export default{
 <template>
   <div>
     <ciaomondo/>
-    <immageComp/>
+    <AppHero/>
   </div>
 </template>
 
