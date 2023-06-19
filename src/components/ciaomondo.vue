@@ -1,8 +1,11 @@
-<script setup>
+<script>
+    
 </script>
+
 
 <template>
   <div>
+    <h1>Robby piace la fiora</h1>
   </div>
 </template>
 
