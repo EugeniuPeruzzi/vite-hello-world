@@ -5,10 +5,12 @@
 
 <template>
   <div>
-    <h1>CIAOAOOOOO BOOLEAN!!!</h1>
+    <!-- <img src="../assets/jumbo.png" alt=""> -->
   </div>
 </template>
 
 <style scoped>
-
+    /* img{
+        width: 100%;
+    } */
 </style>
